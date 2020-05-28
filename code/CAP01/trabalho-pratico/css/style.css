@@ -1,0 +1,7 @@
+.rgbView {
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+  border: 25px solid; /* As 4 bordas sólidas com 25px de espessura */
+  background-color: black;
+}
